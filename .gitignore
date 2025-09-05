@@ -143,7 +143,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-movielens/
 
 # Spyder project settings
 .spyderproject
